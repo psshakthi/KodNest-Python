@@ -2,19 +2,19 @@
 
 ## My Name
 
-Write your name.
+My name is P.S.Shakthi Patel
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+I learnt about basic logic of code to use and understand the things how it works.
 
 ## Why I Selected Python
 
-Write your reason in your own words.
+I'm passationated learning the code and work on it to improve my coding skill.
 
 ## My Career Goal
 
-Write the role you want to achieve.
+To become a Python Developer to explore my skills on it and become a good software engineer.
 
 ## What I Understood Today
 

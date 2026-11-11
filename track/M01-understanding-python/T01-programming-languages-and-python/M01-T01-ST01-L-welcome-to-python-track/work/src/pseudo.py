@@ -29,4 +29,6 @@ elif(b>a and b>c):
     print("b is biggest")
 else:
     print("c is biggest")
+
 exit()
+
